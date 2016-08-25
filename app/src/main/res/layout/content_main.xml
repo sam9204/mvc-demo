@@ -21,5 +21,5 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="login"
-        android:text="登陆" />
+        android:text="登陆1" />
 </LinearLayout>
